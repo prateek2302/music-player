@@ -1,5 +1,7 @@
 # groove music player
 
+![groove music player UI](./assets/groove-screenshot.png)
+
 A full-stack JavaScript music player. The browser UI is served by a Node.js backend that provides the track library, persists favorites and uploaded-track metadata, and streams uploaded audio with byte-range support.
 
 ## Run locally
